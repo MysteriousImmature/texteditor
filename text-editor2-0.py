@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import filedialog, ttk, messagebox, Scrollbar
 
+# This is just basic text editor that look like DOS Operating System
 class TextEditor:
     def __init__(self, root):
         self.root = root
